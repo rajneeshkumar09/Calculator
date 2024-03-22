@@ -1,1 +1,1 @@
-calculator using C language
+Calculator using C language
